@@ -19,8 +19,8 @@ The following **required** functionality is completed:
 
 
 Optional: 
-* [] Try adding an extra operators that take a different number of operands as arguments.  For example, you could implement a < operator that replaces a chosen number with the smallest value between the chosen node and the next two numbers in the list.  Since this operator would remove two nodes rather than one, an extra random node should be added to keep the length of the list consistent.
-* []  Now that you have had some experience with the processing graphics library, you could try implementing a graphical implementation of this game.  You could have operator objects (like the Tigers from JunglePark) that can be dragged onto or near separate number objects, to be applied to them.  You might also use the line() method in the processing library to connect the numbers in the order they appear within the list.
+* [ ] Try adding an extra operators that take a different number of operands as arguments.  For example, you could implement a < operator that replaces a chosen number with the smallest value between the chosen node and the next two numbers in the list.  Since this operator would remove two nodes rather than one, an extra random node should be added to keep the length of the list consistent.
+* [ ]  Now that you have had some experience with the processing graphics library, you could try implementing a graphical implementation of this game.  You could have operator objects (like the Tigers from JunglePark) that can be dragged onto or near separate number objects, to be applied to them.  You might also use the line() method in the processing library to connect the numbers in the order they appear within the list.
 
 More information about this project can be found [here.](http://cs300-www.cs.wisc.edu/wp/index.php/2018/10/15/p06-math-game/) 
 
